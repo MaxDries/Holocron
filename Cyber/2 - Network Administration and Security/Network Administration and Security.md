@@ -29,13 +29,15 @@ tags:
 > - [ ] [Network Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Network%20Plan.md)
 > #### Theory
 > - [ ] [Domain Controllers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Domain%20Controllers.md)
-> - [ ] [Users and Groups](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Users%20and%20Groups.md)
-> - [ ] [Databases](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Databases.md)
+> - [ ] [Packet Tracer - Configure Servers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Packet%20Tracer%20-%20Configure%20Servers.md)
 > #### Practical
 > N/A
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
+> 
+> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
 > Worth 25%.
@@ -49,7 +51,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Install and configure Servers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Install%20and%20configure%20Servers.md)
 
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]

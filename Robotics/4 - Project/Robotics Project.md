@@ -18,7 +18,7 @@ tags:
 > - [ ] [Project Goals](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Goals.md)
 > - [ ] [User Centred Design](_sharedContent/User%20Centred%20Design.md)
 > #### Practical
-> N/A
+> - [ ] [Project Status Breakdown](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Status%20Breakdown.md)
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
@@ -27,10 +27,13 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Project Rebuild & Focus](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Rebuild%20&%20Focus.md)
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
+> 
+> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
 > Worth 25%.
@@ -43,7 +46,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Phase 1 Development](Robotics/4%20-%20Project/_projects/CyberRange/Phase%201%20Development.md)
 
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
@@ -52,7 +55,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Phase 1 Development](Robotics/4%20-%20Project/_projects/CyberRange/Phase%201%20Development.md)
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]
