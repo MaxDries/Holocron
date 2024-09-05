@@ -51,7 +51,7 @@ tags:
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
-> N/A
+> - [ ] [Assessment Documentation](Robotics/4%20-%20Project/_projects/CyberRange/Assessment%20Documentation.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -69,7 +69,7 @@ tags:
 > [!info]- Week 7
 > ![[semesterCalendarS2#School Events - Week 7]]
 > #### Class Tasks
-> N/A
+> -  [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
