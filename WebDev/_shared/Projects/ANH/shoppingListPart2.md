@@ -89,7 +89,7 @@ Create a new template called  `shoppingLists.html`
 
 Replace the standard code with the following 
 
-```python
+```jinja2
 {% extends "base.html" %}
 
 {% block pageCSS %}
@@ -151,6 +151,8 @@ Remember when creating a new route we want to:
 		- `return redirect()` to reload the page with the new shopping list added
 	- For GETting the route should be using:
 		- `return render template()` to constantly to constantly output the `shopping_list` template.
+
+<strong>Please remember if you need any help 
 
 >[!info]- Hint 1
 >There are many routes already in `app.py` that do similar but slightly different things. Use those alongside these instructions to figure out the code.
