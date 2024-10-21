@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Blue Topaz",
+  "accentColor": "#027e2d",
+  "cssTheme": "Border",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "holocron"
