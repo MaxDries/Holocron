@@ -1,0 +1,1 @@
+This is aimed to be a 'catch-up' semester for students who need to complete previous tasks and/or competencies.

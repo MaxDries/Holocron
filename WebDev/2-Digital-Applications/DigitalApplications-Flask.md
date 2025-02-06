@@ -130,7 +130,7 @@ N/A
 
 
 #### Class Tasks
-- [[assessment2Preparation]]
+
 #### Theory
 - [[presentationWeek07]]
 #### Practical
@@ -147,7 +147,7 @@ N/A
 ![Assessment](https://youtu.be/uCfS1UTsFUA)
   
 #### Class Tasks
-- [[assessment2-2024S2]]
+- [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]]
 #### Theory
 - [[presentationWeek08]]
 #### Practical
@@ -169,7 +169,7 @@ N/A
 #### Class Tasks
 - [[presentationWeek09]]
 #### Theory
-- [[_sharedContent/Personas|Personas]]
+- [[_sharedContent/Design/Personas|Personas]]
 #### Practical
 - [[shoppingListPart3]]
 
@@ -187,7 +187,7 @@ N/A
 #### Class Tasks
 - [[presentationWeek10]]
 #### Theory
-- [[assessment2-2024S2]]
+- [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]]
 - [VET Competency](https://classroom.google.com/c/NjkwOTc0MjQ2OTU4/a/NzA1MzI1MzkyNzAx/details)
 #### Practical
 - N/A
@@ -196,7 +196,7 @@ N/A
 ### Week 11
  ![[semesterCalendarS2#School Events - Week 11]]
 #### Class Tasks
-- [[assessment2-2024S2]]
+- [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]]
 #### Theory
 - [[presentationWeek11]]
 #### Practical
@@ -207,7 +207,7 @@ N/A
  ![https://youtu.be/M-PTSMAd8Jk](https://youtu.be/M-PTSMAd8Jk)
 
 #### Class Tasks
- -  [[assessment2-2024S2]]
+ -  [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]]
 #### Theory
 - [[presentationWeek12]]
 #### Practical
@@ -215,12 +215,14 @@ N/A
 
 ### Week 13 - Assessment Due
  ![[semesterCalendarS2#School Events - Week 13]]
+![https://youtu.be/Oof9__xg5UI](https://youtu.be/Oof9__xg5UI)
+
 **Assessment Due**  
 The task will be due Friday 11:59pm.  
 Worth 50%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-- [[assessment2-2024S2]]
+- [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]]
  - Submit Assessment 2
 #### Theory
 - [[presentationWeek13]]
@@ -231,6 +233,7 @@ N/A
 
 ### Week 14
  ![[semesterCalendarS2#School Events - Week 14]]
+![https://youtu.be/4cTeJIScWKs](https://youtu.be/4cTeJIScWKs)
 #### Class Tasks
 N/A
 #### Theory
@@ -239,6 +242,8 @@ N/A
 N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
+![https://youtu.be/yx012Us7-mk](https://youtu.be/yx012Us7-mk)
+
 **Assessment Week**  
 This assessment task is an **in person** interview. Your specific timeslot will be posted to Google Classroom with the assessment.
 
@@ -273,8 +278,8 @@ N/A
 | Unit Outline     | Assessments                   |
 | ---------------- | ----------------------------- |
 | Google Classroom | Assessment 1 - 25 %           |
-|                  | [[assessment2-2024S2]] - 50 % |
-|                  | [[assessment3]] - 25 %        |
+|                  | [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2]] - 50 % |
+|                  | [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 3]] - 25 %        |
 
 
 ![[commonBlocks#Contact Details]]

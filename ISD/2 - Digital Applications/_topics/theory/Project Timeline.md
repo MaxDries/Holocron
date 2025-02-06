@@ -1,3 +1,8 @@
+---
+tags:
+  - ISD
+  - yr11
+---
 
 
 This is a *rough* plan for the semester's project.

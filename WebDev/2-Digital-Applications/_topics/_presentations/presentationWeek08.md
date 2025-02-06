@@ -29,14 +29,14 @@ Each video will be accompanied by a written component with a bit more detail so 
 ---
 # Assessment
 
-[Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+[[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2|Assessment 2 Information]]
 
 
 ---
 
 # Practical
 
- [Shopping List Part 2](/WebDev/_shared/Projects/ANH/shoppingListPart2.md)
+ [[shoppingListPart2|Shopping List Part 2]]
 
 ---
 

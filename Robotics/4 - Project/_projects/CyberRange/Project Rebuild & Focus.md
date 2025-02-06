@@ -1,8 +1,11 @@
+---
+tag: Robotics
+---
 
 Using the projects board:
 https://github.com/orgs/Lake-Tuggeranong-College/projects/1
 
-![biolabProjectsBoard](Robotics/4%20-%20Project/_projects/CyberRange/_images/biolabProjectsBoard.png)
+![[Robotics/4 - Project/_projects/CyberRange/_images/biolabProjectsBoard.png]]
 
 Focus on getting the project up and running for the trial user event.
 

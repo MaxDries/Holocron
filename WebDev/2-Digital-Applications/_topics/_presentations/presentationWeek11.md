@@ -15,7 +15,7 @@ Assessment Task 2 (50%) is critical in passing the unit.
 
 **Option 1**: Focus on the **==Code==** section of the assessment. 
 
-[[assessment2-2024S2|Details here]]
+[[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2|Details here]]
 
 Feedback will be given.
 

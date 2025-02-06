@@ -4,5 +4,10 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "holocron"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "showRibbon": true
 }

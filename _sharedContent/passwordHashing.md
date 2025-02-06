@@ -8,7 +8,7 @@ When users log in, their password is checked against the hashed password by runn
 
 ## Summary
 
-![passwordHashing](_sharedContent/_images/passwordHashing.png)
+![[_sharedContent/_images/passwordHashing.png]]
 
 # Security Concerns
 

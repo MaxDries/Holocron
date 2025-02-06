@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "versionTested": "multitext"
+    "versionTested": "multitext",
+    "yearSemester": "multitext"
   }
 }

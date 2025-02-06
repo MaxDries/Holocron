@@ -1,3 +1,8 @@
+---
+tags:
+  - Cyber
+  - yr11
+---
 
 
 # What are CTF Games?
@@ -26,10 +31,8 @@ This video demonstrates how to solve it.
 
 [https://youtu.be/QaR4DTMhv-I](https://youtu.be/QaR4DTMhv-I)
 
-<aside>
-💡 Note: There is usually more than one methods to solve each challenge.
+> [!info]  Note: There is usually more than one methods to solve each challenge.
 
-</aside>
 
 # CTF Activity
 
@@ -47,10 +50,8 @@ Attempt the following Challenges
 
 And continue to complete as many as possible!
 
-<aside>
-💡 You may work in groups if you wish to solve these tasks - some are quite challenging!
+> [!info]  You may work in groups if you wish to solve these tasks - some are quite challenging!
 
-</aside>
 
 # Project Lunar
 
@@ -77,7 +78,4 @@ Attempt the sections in the following order:
 ![[projectLunar.png]]
 
 
-<aside>
-<img src="https://www.notion.so/icons/search_gray.svg" alt="https://www.notion.so/icons/search_gray.svg" width="40px" /> Collaborate! Work together to solve the challenges! Use Generative AI for the programming challenges as necessary.
-
-</aside>
+> [!info] Collaborate! Work together to solve the challenges! Use Generative AI for the programming challenges as necessary.

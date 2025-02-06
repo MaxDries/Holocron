@@ -23,7 +23,7 @@
 
 The Qualification structure starts at Certificate I and goes up to Doctorate level qualifications.
 
-![vetAQFLevels](/_sharedContent/_images/vetAQFLevels.webp)
+![[/_sharedContent/_images/vetAQFLevels.webp]]
 
 The two Qualifications available to you in the IT classes are the following:
 
@@ -73,8 +73,8 @@ The forms are complex, however you only need to focus on a few sections.
 | Blue      | Where you put your evidence.                    |
 | Yellow    | Mark with the current date and set as complete. |
 
-![vetEvidenceWorksheet](/_sharedContent/_images/vetEvidenceWorksheet.png)
+![[/_sharedContent/_images/vetEvidenceWorksheet.png]]
 
 ## Example Entry
 
-![vetEvidenceWorksheetExample](/_sharedContent/_images/vetEvidenceWorksheetExample.png)
+![[/_sharedContent/_images/vetEvidenceWorksheetExample.png]]
