@@ -23,46 +23,28 @@ tags:
 
 # Semester Plan
 
-[[Accept FPS Assignment]]
-[[Building The Environment]]
-[[Bullet Implementation]]
-[[Enemy]]
-[[Enemy Pathfinding]]
-[[First Person Controller]]
-[[High Score System]]
-[[Lose Conditions]]
-[[Objects Taking Damage]]
-[[ISD/2 - Digital Applications/_projects/FPS/Player Health]]
-[[Points]]
-[[Project Context]]
-[[Raycasting]]
-[[Reusable Assets]]
-[[Shooting Bullet Instances]]
-[[Simple Texturing of a Mesh]]
-[[Win Conditions]]
-
-| Week                                            | Content | Submissions |
-| ----------------------------------------------- | ------- | ----------- |
-| ![[semestercalendarS2#School Events - Week 1]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 2]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 3]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 4]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 5]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 6]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 7]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 8]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 9]]  |         |             |
-| ![[semestercalendarS2#School Events - Week 10]] |         |             |
-| ![[semestercalendarS2#School Events - Week 11]] |         |             |
-| ![[semestercalendarS2#School Events - Week 12]] |         |             |
-| ![[semestercalendarS2#School Events - Week 13]] |         |             |
-| ![[semestercalendarS2#School Events - Week 14]] |         |             |
-| ![[semestercalendarS2#School Events - Week 15]] |         |             |
-| ![[semestercalendarS2#School Events - Week 16]] |         |             |
-| ![[semestercalendarS2#School Events - Week 17]] |         |             |
-| ![[semestercalendarS2#School Events - Week 18]] |         |             |
-| ![[semestercalendarS2#School Events - Week 19]] |         |             |
-| ![[semestercalendarS2#School Events - Week 20]] |         |             |
+| Week                                            | Content                                                                                                                        | Submissions |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| ![[semestercalendarS2#School Events - Week 1]]  | [[Project Context]]<br>[[Accept FPS Assignment]]<br>[[Building The Environment]]<br>[[First Person Controller]]                |             |
+| ![[semestercalendarS2#School Events - Week 2]]  | [[Bullet Implementation]]<br>[[Shooting Bullet Instances]]<br>                                                                 |             |
+| ![[semestercalendarS2#School Events - Week 3]]  | [[Enemy]]<br>[[Enemy Pathfinding]]                                                                                             |             |
+| ![[semestercalendarS2#School Events - Week 4]]  | [[Reusable Assets]]<br>[[Simple Texturing of a Mesh]]                                                                          |             |
+| ![[semestercalendarS2#School Events - Week 5]]  | [[Objects Taking Damage]]<br>[[ISD/2 - Digital Applications/_projects/FPS/Player Health\|Player Health]]<br>[[Points]]<br><br> |             |
+| ![[semestercalendarS2#School Events - Week 6]]  | [[ISD/2 - Digital Applications/_projects/FPS/High Score System\|High Score System]]<br>[[Raycasting]]                          |             |
+| ![[semestercalendarS2#School Events - Week 7]]  | [[Win Conditions]]<br>[[Lose Conditions]]                                                                                      |             |
+| ![[semestercalendarS2#School Events - Week 8]]  |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 9]]  |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 10]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 11]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 12]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 13]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 14]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 15]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 16]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 17]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 18]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 19]] |                                                                                                                                |             |
+| ![[semestercalendarS2#School Events - Week 20]] |                                                                                                                                |             |
 
 # Subject Information
 

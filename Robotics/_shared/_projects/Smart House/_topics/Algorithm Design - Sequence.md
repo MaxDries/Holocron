@@ -40,16 +40,6 @@ Indentation is also not critical, however it makes it easier to read code blocks
 > [!info]  CTRL+T is the shortcut to auto-format your code and fix up indentation.
 
 
-# Practical Exercises
-
-In a Google Doc write the sequence involved in you making toast.
-
-Update the blink code, to include a second (or third) LED, and code the LEDs to cycle through - e.g. RED, then GREEN, then RED, then GREEN etc.
-
-![[sequenceLEDsBlink.gif]]
-
-Practical Demonstration - Robots!
-
 # Review
 
 1. Write the sequence of steps to make and eat toast.

@@ -648,11 +648,11 @@ The expression (one the right-hand side of the equals) is calculated and the “
 
 Some examples:
 
-| Example | Explanation |
-| --- | --- |
-| `Age = 42` | Sets the `Age` variable to the integer 42 |
-| `Name = “Anakin Skywalker”` | Assigns “Anakin Skywalker” to the variable `Name`. |
-| `Answer = value1 + value2` | Calculates the addition of the contents of `value1` and `value2` and stores the result in the variable `Answer`. |
+| Example                     | Explanation                                                                                                      |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `Age = 42`                  | Sets the `Age` variable to the integer 42                                                                        |
+| `Name = “Anakin Skywalker”` | Assigns “Anakin Skywalker” to the variable `Name`.                                                               |
+| `Answer = value1 + value2`  | Calculates the addition of the contents of `value1` and `value2` and stores the result in the variable `Answer`. |
 
 The right hand side of the assignment statement can be incredibly complex, but the left hand side will (almost) always a single variable. But there’s always exceptions to the rule.
 
@@ -833,9 +833,9 @@ flowchart TB
   terminalStart([Start])
 	input1[/Get Student Store/]
 	case1{Score > 90}
-	case2{Score &#8805 75 AND Score &#8804 89}
-	case3{Score &#8805 55 AND Score &#8804 74}
-	case4{Score &#8805 45 AND Score &#8804 54}
+	case2{Score  ≥ 75 AND Score ≤ 89}
+	case3{Score  ≥ 55 AND Score &≤ 74}
+	case4{Score  ≥ 45 AND Score ≤ 54}
 	case5{Score &#8804 44}
 	grade1[/Grade = A/]
 	grade2[/Grade = B/]
@@ -874,7 +874,7 @@ flowchart TB
 
 ## Video
 
-[https://youtu.be/2e0HmKTSq2k](https://youtu.be/2e0HmKTSq2k)
+![https://youtu.be/2e0HmKTSq2k](https://youtu.be/2e0HmKTSq2k)
 
 ## Notes
 

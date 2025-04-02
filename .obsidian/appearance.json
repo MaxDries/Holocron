@@ -1,7 +1,7 @@
 {
   "accentColor": "#027e2d",
   "cssTheme": "Border",
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
     "holocron"
   ],

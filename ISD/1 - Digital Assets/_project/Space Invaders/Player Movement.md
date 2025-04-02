@@ -109,7 +109,7 @@ match x:
 
 ```
 
-## **Comparison Operators**
+## Comparison Operators
 
 The standard *comparison* operators in GDScript are shown here and can be used in `if` conditions.
 
@@ -125,7 +125,7 @@ The standard *comparison* operators in GDScript are shown here and can be used i
 
 # Practical Exercises
 
-In the ongoing Software Development Fundamentals project, open the Player.gd script in the Player folder. 
+In the ongoing Software Development Fundamentals project, open the `Player.gd` script in the Player folder. 
 
 ## Player Movement
 

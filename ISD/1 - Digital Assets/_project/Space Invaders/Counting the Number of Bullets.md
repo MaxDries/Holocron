@@ -180,8 +180,8 @@ The last check to do is to check whether the bullet has collided with an enemy o
 ![[variablesDetectEnemyCollision.png]]
 
 ```
-if "Enemy" in collidedObject.collider.name:
-	collidedObject.get_collider().queue_free()
+if "Enemy" in collided_object.get_collider().name:
+	collided_object.get_collider().queue_free()
 ```
 
 Test the game now. When the bullets hit the enemy objects, the enemy and the bullet are removed from the game.

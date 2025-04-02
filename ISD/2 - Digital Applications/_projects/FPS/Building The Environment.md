@@ -44,7 +44,7 @@ This updates the mesh to include 2 child nodes.
 
 ![[fpsEnvironment-TriMeshNewNodes.png|New Nodes Created]]
 
- <include from="reusableContent.topic" element-id="commitPush"/>
+![[commonBlocks#Commit & Push]]
 
 # Texture the floor
 

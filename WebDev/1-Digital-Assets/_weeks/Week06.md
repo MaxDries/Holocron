@@ -17,7 +17,7 @@ Watch the video/s supplied to understand the topics for this week.
 
 ### VET
 
-![[VET]]
+![[Vocational Education and Training (VET)]]
 ### HTML
 ![[WebDev/_shared/HTML]]
 

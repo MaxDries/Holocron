@@ -38,9 +38,7 @@ At this end of the process, your `sensitiveInformation.h` file should appear sim
 
 ![[loopWhileLoop.png|Untitled]]
 
-$$
-\utilde {\color{black} \fcolorbox{darkorange}{darkorange}  {Commit and Push to Github}}
-$$
+![[commonBlocks#Commit & Push]]
 
 ## Connecting to the network
 

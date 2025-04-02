@@ -54,7 +54,7 @@ end
 
 # Timer
 
-Open `Enemy/Enemy.tscn`. Add a Timer node to the scene.
+Open `Enemy/Enemy.tscn`. Add a Timer node to the scene, by right-clicking on Enemy and choosing `Add Child Node`.
 
 ![[enemyShootingTimerAdd.png]]
 

@@ -3,6 +3,6 @@ tags:
   - S1
   - ISD
 ---
-> [!important] Prerequisites: [[Buttons]]
+> [!important] Prerequisites: [[Main Menu Button Functionality]]
 
 # Rapid Fire

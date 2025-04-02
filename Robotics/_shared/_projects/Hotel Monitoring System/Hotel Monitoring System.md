@@ -8,7 +8,7 @@ tags:
 [[1a - VS Code Configuration]]
 [[2 - PHP, MySQL Crash Course]]
 [[3 - Feather & Featherwings]]
-[[4 - Simple Input -> Output]]
+[[4 - Simple Input Output]]
 [[4a - Wiring Diagram]]
 [[5 - Network Access]]
 [[6 - Sensor Data Logging]]

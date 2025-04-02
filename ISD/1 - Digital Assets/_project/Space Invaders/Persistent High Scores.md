@@ -5,7 +5,7 @@ tags:
 ---
 > [!important] This tutorial gives you the evidence to complete VET competency `ICTPRG302 Apply Introductory Programming Techniques`, performance criteria 4.1 & 4.3
 
-> [!important] Prerequisites: [[ISD/1 - Digital Assets/_project/Space Invaders/Data Structures|Data Structures]]
+> [!important] Prerequisites: [[ISD/1 - Digital Assets/_project/Space Invaders/High Score System|High Score System]]
 # Saving the Score
 
 In this tutorial, you'll be storing the players score as persistent data, so subsequent playthroughs can keep a track of the high score.
@@ -28,18 +28,20 @@ Most file access performed in Godot begins with `res://` (e.g. `res://Menu/Menu.
 User data uses the `user://` prefix which points to a different folder which is not in the project folder.
 
 > [!important] The `user://` prefix points to a different directory on the user's device. On mobile and consoles, this path is unique to the project. On desktop, the engine stores user files in:
-> `~/.local/share/godot/app_userdata/[project_name]` on Linux, 
-> `~/Library/Application Support/Godot/app_userdata/[project_name]` on macOS (since Catalina) and
-> `%APPDATA%\Godot\app_userdata\[project_name]` on Windows.
+> 
+> | OS      | Directory                                                                                                                                          |
+> | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | Linux   | > `~/.local/share/godot/app_userdata/[project_name]` or,<br>> `~/snap/gd-godot-engine-snapcraft/35/.local/share/godot/app_userdata/[project name]` |
+> | MacOS   | `~/Library/Application Support/Godot/app_userdata/[project_name]`                                                                                  |
+> | Windows | `%APPDATA%\Godot\app_userdata\[project_name]`                                                                                                      |
 > 
 > [https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html](https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html)
 
 
 
-
 # Update `Global.gd`
 
-Open `Global.gd`. The `scoring_information` dictionary containing the current score and high score keys will be already defined during the [[ISD/1 - Digital Assets/_project/Space Invaders/Data Structures|Data Structures]] stage. 
+Open `Global.gd`. The `scoring_information` dictionary containing the current score and high score keys will be already defined during the [[ISD/1 - Digital Assets/_project/Space Invaders/High Score System|High Score System]] stage. 
 
 Create a new variable to link to the save file.
 
@@ -87,7 +89,7 @@ func save_data():
 
 Run through the game, killing all the enemies. 
 
-After the Win scene has been loaded, you should find `save.dat` in the user directory (see above). You'll notice that the structure of the file matches the `set_value` function with `"Player"` (the section) and `"score"` (the key).
+After the Win scene has been loaded, you should find `save.txt` in the user directory (see above). You'll notice that the structure of the file matches the `set_value` function with `"Player"` (the section) and `"score"` (the key).
 
 ![[ISD/1 - Digital Assets/_project/Space Invaders/_images/persistentDataFileContents.png]]
 

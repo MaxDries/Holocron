@@ -69,6 +69,14 @@ Open `Player.gd` and create a new variable to store the players health.
 
 > [!info] Defining it as `@export` allows the developer to set the value from the inspector tab for the node. This allows different instances of the same node to have different starting values. E.g. different enemies can have different health.
 
+Save the file.
+# Setting the players start health
+
+Select the Player node in the Scene tree. Change the health value to 5 (or whatever is appropriate to your game).
+
+![[playerHealthSetStartingValue.png]]
+# Health Code
+
 Define a new function called `change_health` with an argument called `health_modifier`.
 
 ![[playerHealthFuncDefine.png]]

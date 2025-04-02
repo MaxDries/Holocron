@@ -1,0 +1,2 @@
+- In Class examination. Due to this information regarding this assessment will be posted on the day. It will be a written (typed), open book response with evidence. 
+- There will be practice tests in the double the week before the test which we will give feedback on.

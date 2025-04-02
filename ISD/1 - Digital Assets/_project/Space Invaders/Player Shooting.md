@@ -157,7 +157,7 @@ The values given on Line 10, mean that the bullet won’t change on the `x` axis
 ![[modularisationAddForce.png]]
 
 ```gdscript
-extends KinematicBody2D
+extends CharacterBody2D
 
 var speed = 500
 

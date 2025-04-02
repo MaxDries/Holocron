@@ -11,7 +11,7 @@ Save the Script.
 
 ![[endOfGamePlayerVariable.png]]
 
-In `[Player.gd](http://Player.gd)` update `_ready()` set the `GlobalVariables.Player` to be the Player object. This uses the `self` keyword.
+In `Player.gd` update `_ready()` set the `GlobalVariables.Player` to be the Player object. This uses the `self` keyword.
 
 ![[endOfGameSetPlayerToSelf.png]]
 

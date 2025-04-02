@@ -42,7 +42,7 @@ The VET competencies are posted to Google Classroom. The ones to focus on for Ta
 Additionally, catch up on outstanding VET Competencies.
 
 
-![[VET]]
+![[Vocational Education and Training (VET)]]
 
 ---
 

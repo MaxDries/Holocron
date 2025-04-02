@@ -119,4 +119,5 @@ gantt
 
 Other assessment topics can be mapped to the roadmap in a similar fashion.
 
-$\color{black} \fcolorbox{red}{red} {You do NOT need to follow these suggestions if you have another approach!}$
+> [!faq] You do NOT need to follow these suggestions if you have another approach!
+
