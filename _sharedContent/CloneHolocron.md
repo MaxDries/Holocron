@@ -19,18 +19,18 @@ If you do notice any broken links or other issues, please contact your teacher.
 
 On GitHub, fork the repository. This creates a copy of the repository into your GitHub account. You can make changes to the repository in your account.
 
-![Fork the Repository](/_admin/images/repoFork.png)
+![[repoFork.png|Fork the Repository]]
 
 Clone the repository to your computer using GitHub Desktop (or any method).
 
-![Clone the repository](/_admin/images/repoClone.png)
+![[repoClone.png|Clone the repository]]
 > [!tip] Note the directory that you cloned the repository into. 
 
 Open Obsidian, and open the repository folder as a vault.
 
-![Open in Obsidian](/_admin/images/repoOpen.png)
+![[repoOpen.png|Open in Obsidian]]
 
-![Opened in Obsidian](/_admin/images/repoOpened.png)
+![[repoOpened.png|Opened in Obsidian]]
 
 ## Update your fork
 
@@ -38,7 +38,7 @@ Periodically, there may be updates to the main repository. In your fork, sync th
 
 You will then need to pull the changes down to your computer through Github Desktop (or your preferred method).
 
-![repoSyncFork](/_sharedContent/_images/repoSyncFork.png)
+![[/_sharedContent/_images/repoSyncFork.png]]
 
 ## Making Changes to the repository
 
@@ -50,11 +50,11 @@ First, make and save changes to the required files within Obsidian.
 
 Select the files  you wish to commit (**ONLY THE FILES YOU WISH TO COMMIT**), add a comment to explain the changes, then press `Commit To Main`.
 
-![Commit Changes](/_admin/images/repoGithubCommitPush.png)
+![[repoGithubCommitPush.png|Commit Changes]]
 
 Then push the changes to your GitHub repository
 
-![Push Changes to GitHub](/_admin/images/repoGithubPush.png)
+![[repoGithubPush.png|Push Changes to GitHub]]
 
 ## Merge your changes with the main Holocron
 
@@ -64,16 +64,16 @@ To do so, go to your repository on GitHub.com.
 
 If your repository has changes that the main repository does not have, you'll see a banner similar to this:
 
-![repoBranchAhead](/_sharedContent/_images/repoBranchAhead.png)
+![[/_sharedContent/_images/repoBranchAhead.png]]
 
 Click the Contribute button, then Open Pull Request.
 
-![repoContribute](/_sharedContent/_images/repoContribute.png)
+![[/_sharedContent/_images/repoContribute.png]]
 
 
 On the next screen enter a **meaningful** title and description, then click `Create Pull Request`.
 
-![repoPR](/_sharedContent/_images/repoPR.png)
+![[/_sharedContent/_images/repoPR.png]]
 
 
 If your changes are deemed appropriate, then the changes will be merged in.

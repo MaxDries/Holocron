@@ -1,3 +1,8 @@
+---
+tags:
+  - ISD
+  - yr12
+---
 Prepare for Assessment 2 documentation by creating a new Google Doc.
 
 Create some headings in the document:

@@ -45,7 +45,7 @@ note:
 ---
 # Assessment Document Part 2
 
-- Read [[assessment2-2024S2|Assessment 2]] for information on each section.
+- Read [[WebDev/2-Digital-Applications/_ap/2024S2/Assessment 2|Assessment 2]] for information on each section.
 
 
 The importance of this assessment can **not** be overstated.

@@ -1,3 +1,8 @@
+---
+tags:
+  - ISD
+  - yr12
+---
 
 # Characters
 Here are some AI generated characters for our Declan Battle Royal. Each character needs a biography, description, name, stats etc.

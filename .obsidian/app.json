@@ -10,5 +10,6 @@
     "downscalePercent": 100
   },
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "showInlineTitle": true
 }

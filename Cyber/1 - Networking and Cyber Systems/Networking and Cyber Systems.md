@@ -2,191 +2,37 @@
 tags:
   - S1
   - Cyber
+  - yr11
 ---
 > [!note]- Project Overview
-> The project will be explained in due time...
+> ![[Home Network#Project Overview]]
 
 
 # Semester Plan
-## Term 3
-
-> [!info]- Week 1
-> ![[semesterCalendarS1#School Events - Week 1]]
-> # Class Tasks
-> - [ ] [[The Internet]] 
-> - [ ] [[TCP IP]] 
-> - [ ] [[IP Addresses]]
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 2
-> ![[semesterCalendarS1#School Events - Week 2]] 
-> # Class Tasks
-> [[Network Topologies]] 
- [[OSI Model]]
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 3
-> ![[semesterCalendarS1#School Events - Week 3]]
-> # Class Tasks
-> [[Subnetting]]
-[[Packet Tracer Fundamentals]]
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 4
-> ![[semesterCalendarS1#School Events - Week 4]]
-> # Class Tasks
-> - [ ] [[Cryptography]]
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 5
-> ![[semesterCalendarS1#School Events - Week 5]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> - [ ] [[Simulated School Network]]
-
-> [!info]- Week 6
-> ![[semesterCalendarS1#School Events - Week 6]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> - [ ] [[Raspberry Pi Installation]]
-
-> [!important]- Week 7
-> ![[semesterCalendarS1#School Events - Week 7]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 8
-> ![[semesterCalendarS1#School Events - Week 8]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 9
-> ![[semesterCalendarS1#School Events - Week 9]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 10
-> ![[semesterCalendarS1#School Events - Week 10]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> - [ ] [[Capture The Flag]]
-
-## Term 4
-> [!info]- Week 11
-> ![[semesterCalendarS1#School Events - Week 11]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 12
-> ![[semesterCalendarS1#School Events - Week 12]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 13
-> ![[semesterCalendarS1#School Events - Week 13]]
-> # Class Tasks
-> - [ ] [[Pen Testing Report]]
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 14
-> ![[semesterCalendarS1#School Events - Week 14]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 15
-> ![[semesterCalendarS1#School Events - Week 15]]
-> # Class Tasks
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 16
-> ![[semesterCalendarS1#School Events - Week 16]]
-> # Class **Tasks**
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 17
-> ![[semesterCalendarS1#School Events - Week 17]]
-> # Class **Tasks**
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 18
-> ![[semesterCalendarS1#School Events - Week 18]]
-> # Class **Tasks**
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
-
-> [!info]- Week 19
-> ![[semesterCalendarS1#School Events - Week 19]]
-> # Class **Tasks**
-> N/A
-> # Theory
-> N/A
-> # Practical
-> N/A
 
 
+| Week                                            | Content                                                                                                                                                                                                                                      | Submissions                                                                                       |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![[semesterCalendarS1#School Events - Week 1]]  | [[Permission Notes\|Permission Notes!!!!]]<br>[[Content Structure]]<br>[[Home Network]]<br><br>[[Packet Tracer Fundamentals]]                                                                                                                |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 2]]  | [[TCP IP]]<br>[[IP Addresses]]<br>[[Subnetting]]<br>[[Cyber/_projects/Home Network/Product Roadmap\|Product Roadmap]]                                                                                                                        |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 3]]  | [[Cyber/_projects/Home Network/Product Roadmap\|Product Roadmap]]<br>[[The Internet]]<br>[[Network Topologies]]<br>[[OSI Model]]<br>[[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Accept Github Assignment\|Accept Github Assignment]] |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 4]]  | [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 1\|Assessment 1]]                                                                                                                                                             | [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 1\|Assessment 1 Due]]              |
+| ![[semesterCalendarS1#School Events - Week 5]]  | [[Vocational Education and Training (VET)]]<br>[[Cyber/_projects/Home Network/Accept Assignment\|Accept Assignment]]<br>[[Smart House Network Design Phase 1]]                                                                               | ICTICT214 - Google classroom                                                                      |
+| ![[semesterCalendarS1#School Events - Week 6]]  | [[Smart House Network Design Phase 1]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 7]]  | [[Smart House Network Design Phase 1]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 8]]  | [[Smart House Network Design Phase 1]]                                                                                                                                                                                                       | Assessment 2 Practice - Wednesday Double                                                          |
+| ![[semesterCalendarS1#School Events - Week 9]]  | [[Smart House Network Design Phase 2]]                                                                                                                                                                                                       | [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 2\|Assessment 2 Wednesday Double]] |
+| ![[semesterCalendarS1#School Events - Week 10]] | [[Smart House Network Design Phase 2]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 11]] | [[Smart House Network Design Phase 2]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 12]] | [[Smart House Network Design Phase 2]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 13]] | [[Smart House Network Design Phase 2]]                                                                                                                                                                                                       |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 14]] | Project Due                                                                                                                                                                                                                                  |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 15]] | [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 3\|Assessment 3]]                                                                                                                                                             |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 16]] | [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 3\|Assessment 3]]                                                                                                                                                             | **Friday** [[Cyber/1 - Networking and Cyber Systems/_ap/2025S1/Assessment 3\|Assessment 3 Due]]   |
+| ![[semesterCalendarS1#School Events - Week 17]] |                                                                                                                                                                                                                                              |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 18]] |                                                                                                                                                                                                                                              |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 19]] |                                                                                                                                                                                                                                              |                                                                                                   |
+| ![[semesterCalendarS1#School Events - Week 20]] |                                                                                                                                                                                                                                              |                                                                                                   |
 
 # Subject Information
 
@@ -201,4 +47,3 @@ The details for each assessment can be found on Google Classroom, as they are pu
 ## Contact Details
 
 ![[commonBlocks#Contact Details]]
-

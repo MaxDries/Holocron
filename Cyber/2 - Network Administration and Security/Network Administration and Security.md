@@ -2,12 +2,13 @@
 tags:
   - S2
   - Cyber
+  - yr11
 ---
 > [!note]- Project Overview
 > You are being tasked to develop secure servers and clients to support the Northside Hospital Project.
 > The project name is: **Biomedical ACT Administration (BACTA)**
 > You will be building and configuring a server, a workstation client and the publishing and secure storage of patient health data.
-> Details can be found here. [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
+> Details can be found here. [[Cyber/_projects/BACTA/Project Overview]]
 
 # Semester Plan
 ## Term 3
@@ -15,28 +16,28 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
+> - [[_sharedContent/CloneHolocron.md| ]]
+> - [[Cyber/_projects/BACTA/Accept Assignment| ]]
 > #### Theory
-> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
-> - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Technical%20Requirements.md)
+> - [[Cyber/_projects/BACTA/Project Overview| ]]
+> - [[Technical Requirements| ]]
 > #### Practical
 > N/A
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
 > #### Class Tasks
-> - [ ] [Network Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Network%20Plan.md)
+> - [[Network Plan| ]]
 > #### Theory
-> - [ ] [Domain Controllers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Domain%20Controllers.md)
-> - [ ] [Packet Tracer - Configure Servers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Packet%20Tracer%20-%20Configure%20Servers.md)
+> - [[Domain Controllers| ]]
+> - [[Packet Tracer - Configure Servers| ]]
 > #### Practical
 > N/A
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
 > 
-> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> [[Task1.md|Assessment Assistance]]
 > 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
@@ -46,17 +47,17 @@ tags:
 > [!info]- Week 4
 > ![[semesterCalendarS2#School Events - Week 4]]
 > #### Class Tasks
-> - [ ] [Task Allocation](Cyber/1%20-%20Networking%20and%20Cyber%20Systems/_topics/Task%20Allocation.md)
-> - [ ] [Project Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Plan.md)
+> - [[Task Allocation| ]]
+> - [[Project Plan| ]]
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Install and configure Servers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Install%20and%20configure%20Servers.md)
+> - [[Install and configure Servers| ]]
 
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
-> - [ ] [Server Documentation](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Server%20Documentation.md)
+> - [[Server Documentation| ]]
 > #### Theory
 > N/A
 > #### Practical
@@ -74,18 +75,18 @@ tags:
 > [!important]- Week 7
 > ![[semesterCalendarS2#School Events - Week 7]]
 > #### Class Tasks
-> - [ ] [Server Documentation](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Server%20Documentation.md)
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [[Server Documentation| ]]
+> - [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2| ]]
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Install and configure Servers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Install%20and%20configure%20Servers.md)
+> - [[Install and configure Servers| ]]
 
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
 > - [ ] ICTSAS305 Provide ICT Advice to Clients VET competency.
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) 
+> - [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2| ]] 
 > #### Theory
 > N/A
 > #### Practical
@@ -94,12 +95,12 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2|Assessment 2]]
 > #### Theory
 > N/A
 > #### Practical
 >  - [ ] (Monday) Create New SD Card image with Raspberry Pi OS
->  - [ ] (Tuesday) [Bash Scripting](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Bash%20Scripting.md)
+>  - [ ] (Tuesday) [[Bash Scripting]]
 >  - [ ] (Thursday) Continue Bash Scripting & Testing
 >  - [ ] (Thursday) Assessment - Coding
 
@@ -118,7 +119,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
 > -  [[Bash Scripting]]
-> -  [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> -  [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2]]
 > #### Theory
 > N/A
 > #### Practical
@@ -128,7 +129,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 12]]
 > 
 > #### Class Tasks
-> - [[Cyber/2 - Network Administration and Security/2024S2/Assessment 2 - 2024S2|Assessment 2 - 2024S2]]
+> - [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2|Assessment 2]]
 > #### Theory
 > N/A
 > #### Practical
@@ -138,7 +139,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 13]]
 > 
 > - [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2| ]]
 > 
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
@@ -184,8 +185,8 @@ tags:
 | Unit Outline     | Assessments                                                                                                          |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                                                                  |
-|                  | [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
-|                  | [[Cyber/2 - Network Administration and Security/2024S2/Assessment 3\|Assessment 3]] - 25 %                           |
+|                  | [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 2]] - 50 % |
+|                  | [[Cyber/2 - Network Administration and Security/_ap/2024S2/Assessment 3\|Assessment 3]] - 25 %                           |
 |                  |                                                                                                                      |
 
 # Contact Details

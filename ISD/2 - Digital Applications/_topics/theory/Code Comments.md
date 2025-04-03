@@ -1,3 +1,8 @@
+---
+tags:
+  - ISD
+  - yr11
+---
 To Demonstrate understanding of code, you can use code comments (or internal documentation).
 
 # Function Descriptions
@@ -14,7 +19,7 @@ Outputs:
 
 ## Example
 
-![commentsFunction](ISD/2%20-%20Digital%20Applications/_topics/theory/images/commentsFunction.png)
+![[commentsFunction.png]]
 
 # Inline Comments
 
@@ -22,7 +27,7 @@ The other type of code comments is "inline" comments. These are used to explain 
 
 ## Example
 
-![commentsInline](ISD/2%20-%20Digital%20Applications/_topics/theory/images/commentsInline.png)
+![[commentsInline.png]]
 
 
 # MORE INFORMATION

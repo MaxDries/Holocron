@@ -1,13 +1,15 @@
+---
+tags:
+  - Cyber
+  - yr11
+---
 Network and Host IDs
 ![[ipAddress.png]]
 
 ![[ipAddressClasses.png]]
 ## Explanation
 
-<aside>
-💡 Written by Google Gemini
-
-</aside>
+> [!info]  Written by Google Gemini
 
 ### **IP Addresses: Navigating the Digital Highway**
 

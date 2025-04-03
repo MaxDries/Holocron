@@ -16,7 +16,7 @@ Three components:
 
 All the experience data will be stored in one table. 
 
-![resumeERD](/WebDev/_shared/Projects/ANH/images/resumeERD.png)
+![[resumeERD.png]]
 
 `userID` is the current user's id from the `user` table.
 
@@ -38,26 +38,26 @@ Creating:
 ---
 # Resume Build
 
-![resumeBuildTemplateFormEntry](/WebDev/_shared/Projects/ANH/images/resumeBuildTemplateFormEntry.png)
+![[resumeBuildTemplateFormEntry.png]]
 
 ---
 
 # Resume Edit
 
-![resumeEditPreview](/WebDev/_shared/Projects/ANH/images/resumeEditPreview.png)
+![[resumeEditPreview.png]]
 
 ---
 
 # Resume Display
 
-![resumeDisplayCardExample2](/WebDev/_shared/Projects/ANH/images/resumeDisplayCardExample2.png)
+![[resumeDisplayCardExample2.png]]
 
 ---
 # Improvements?
 
 What else goes on a resume?
 
-![resumeExampleWikiCommons](/WebDev/_shared/Projects/ANH/images/resumeExampleGenerated.png)
+![[resumeExampleGenerated.png|resumeExampleWikiCommons]]
 
 note: - Personal information
 	- Name

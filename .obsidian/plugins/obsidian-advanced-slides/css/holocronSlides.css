@@ -1,16 +1,68 @@
-.inline-embed{
-    border-left:0px;
+.inline-embed {
+  border-left: 0px;
 }
 
 .reveal h1 {
-    font-size: 2em;
-    line-height: 1.5em;
-    color: black;
-    
-  }
+  font-size: 1.5em;
+  line-height: 1.5em;
+  color: teal;
+  font-style: italic;
+  position: absolute;
+  padding: 10px 20px 10px 20px;
+  top: 30px;
+  left: 0px;
+  z-index: 500;
+  /* background-color: rgba(0,0,0,0.5) */
 
-  .reveal h2 {
-    font-size: 1em;
-    line-height: 1.5em;
-    color:gray;
-  }
+}
+
+.reveal h2 {
+  font-size: 1em;
+  line-height: 1.5em;
+  color: gray;
+}
+
+.reveal p {
+  font-size: 2rem;
+  line-height: 1.5em;
+  color: black;
+}
+
+.reveal table {
+  font-size: 1.5rem;
+  line-height: 1.5em;
+  color: black;
+}
+
+.reveal ul {
+  font-size: 2rem;
+  line-height: 1.5em;
+  color: black;
+}
+
+svg[id^="m"][width][height][viewBox] {
+  max-width: 95%;
+  max-height: 95%;
+}
+
+div.mermaid {
+  margin-left: 0 !important;
+  text-align: center;
+  resize: both;
+  overflow: auto;
+  margin-bottom: 2px;
+  position: relative;
+  max-height: 600px;
+  max-width: 100%;
+}
+
+div.mermaid::after {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: yellowgreen;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

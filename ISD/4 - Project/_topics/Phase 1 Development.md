@@ -1,3 +1,8 @@
+---
+tags:
+  - ISD
+  - yr12
+---
 > [!important] Goal - Get the game to a workable standard, with a new environment and pickups. The end-point is a trial run with students running through the game.
 
 
