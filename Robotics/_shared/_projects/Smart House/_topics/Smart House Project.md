@@ -120,3 +120,30 @@ All these steps require research. You will need to google each component and spe
 
 When googling, use keywords such as : `tinkercad <component> wiring`
 
+
+
+# Code Design Updates
+
+Update the code to meet the LTC style guide for Arduino.
+
+```
+// Code Design
+// 1. naming conventions
+// variables & functions - lowerCamelCase
+// Constants - UPPERCASE
+
+// kebab-case X
+// snake_case X
+// UpperCamelCase X
+// Hungarian Notation - first three letters indicate the type Y
+ 
+// 2. Modular
+// Each subsystem has its own function.
+// loop() only has function calls (and delay).
+
+// 3. Internal Documentation (Comments)
+// Explain logic / complex code
+// Explain the purpose and goals of functions
+```
+
+Look here for more information : [[Style Guide - Arduino]]

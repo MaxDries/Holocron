@@ -237,7 +237,7 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
         this.setModifierKeyState(false);
       }
     };
-    const wheelHandler = (ev) => {
+    const wheelHandler = async (ev) => {
       if (!this.settings.enableWheelZoom || !this.isModifierKeyHeld) return;
       if (!this.isModifierKeyStillHeld(ev)) {
         this.setModifierKeyState(false);
@@ -246,10 +246,12 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
       const img = this.findImageElement(ev.target);
       if (!img) return;
       ev.preventDefault();
-      this.handleImageWheel(ev, img).catch((error) => {
+      try {
+        await this.handleImageWheel(ev, img);
+      } catch (error) {
         this.errorLog("Error handling wheel event:", error);
         new import_obsidian2.Notice("Failed to resize image");
-      });
+      }
     };
     this.registerDomEvent(doc, "keydown", keydownHandler);
     this.registerDomEvent(doc, "keyup", keyupHandler);
@@ -295,7 +297,8 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
     const { width } = await this.readImageDimensions(result.imgFile);
     const customWidth = this.getCurrentImageWidth(target, result.activeFile, result.imgFile);
     const currentWidth = customWidth != null ? customWidth : width;
-    const stepSize = Math.max(1, Math.round(currentWidth * (this.settings.wheelZoomPercentage / 100)));
+    const deltaScale = Math.min(1, Math.abs(evt.deltaY) / 10);
+    const stepSize = Math.max(1, Math.round(currentWidth * (this.settings.wheelZoomPercentage / 100) * deltaScale));
     const scrollingUp = evt.deltaY < 0;
     const shouldIncrease = this.settings.invertScrollDirection ? !scrollingUp : scrollingUp;
     const newWidth = shouldIncrease ? currentWidth + stepSize : Math.max(1, currentWidth - stepSize);
@@ -320,6 +323,7 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
     let longPressTimer;
     let isLongPress = false;
     this.registerDomEvent(document, "touchstart", (ev) => {
+      if (ev.touches.length > 1) return;
       const img = this.findImageElement(ev.target);
       if (!img) return;
       isLongPress = false;
@@ -336,6 +340,7 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
     });
   }
   async handleContextMenu(ev) {
+    if ("touches" in ev && ev.touches.length > 1) return;
     const img = this.findImageElement(ev.target);
     if (!img) return;
     ev.preventDefault();
@@ -359,7 +364,12 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
    */
   findImageElement(target) {
     if (!target || !(target instanceof HTMLElement)) return null;
-    return target instanceof HTMLImageElement ? target : target.querySelector("img");
+    if (target instanceof HTMLImageElement) return target;
+    const isImageContext = target.matches('.image-container, .image-embed, img, a.internal-embed[src*=".png"], a.internal-embed[src*=".jpg"], a.internal-embed[src*=".jpeg"], a.internal-embed[src*=".gif"], a.internal-embed[src*=".webp"], a.internal-embed[src*=".svg"]');
+    if (isImageContext) {
+      return target.querySelector("img");
+    }
+    return null;
   }
   /**
    * Helper to create a disabled menu item for displaying information
@@ -466,7 +476,9 @@ var PixelPerfectImage = class extends import_obsidian2.Plugin {
     }
     const imgFile = this.getFileForImage(img, activeFile);
     if (!imgFile) {
-      new import_obsidian2.Notice("Could not locate image file");
+      if (img.naturalWidth > 0 || img.src) {
+        new import_obsidian2.Notice("Could not locate image file");
+      }
       return null;
     }
     return { activeFile, imgFile };

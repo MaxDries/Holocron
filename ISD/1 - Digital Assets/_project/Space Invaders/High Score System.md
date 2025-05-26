@@ -66,7 +66,7 @@ There is some code in there already, which you can use at a later stage, however
 ![[dataGlobalGD.png]]
 
 
-> [!info] This code file is different from other code in the project. So far the code you’ve written has been attached to a particular node. This `Global.gd` is a script which loads when the project loads and is referred to as a `Singleton`. Singletons are useful for when you need to store information across scenes and aren’t loaded and unloaded from memory when nodes are loaded and unloaded.
+> [!info] This code file is different from other code in the project. So far the code you’ve written has been attached to a particular node. This `Global.gd` is a script which loads when the project loads and is referred to as a [[Singleton]]. Singletons are useful for when you need to store information across scenes and aren’t loaded and unloaded from memory when nodes are loaded and unloaded.
 Information Singletons can be found on the link here.
 [Singletons](https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html)
 
@@ -91,11 +91,11 @@ var scoring_information = {
 
 Create the four entries inside the dictionary. 
 
-![[dataScoringInformationComplete.png|Screen Shot 2022-02-26 at 1.55.49 pm.png]]
+![[dataScoringInformationComplete.png]]
 
 
 ```python
-var scoringInformation = {
+var scoring_information = {
 	"currentScore": 0,
 	"currentPlayer": "User",
 	"highScore": 0,

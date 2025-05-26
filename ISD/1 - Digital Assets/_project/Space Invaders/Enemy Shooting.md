@@ -107,8 +107,10 @@ if GlobalVariables.enemyBulletInstanceCount < 5:
 Save the Scene.
 
 
-
 # Enemy Bullet Management
+
+> [!important] Prerequisite: In order for this to function correctly, you will need to have created the `enemyBulletInstanceCount` variable in `Global.gd`, as described in [[Counting the Number of Bullets]]
+> ![[variablesEnemyBulletInstanceCount.png]]
 
 ## Bullet Speed
 

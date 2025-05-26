@@ -1,14 +1,6 @@
----
-tags:
-  - S2
-  - Cyber
-  - yr11
----
 > [!note]- Project Overview
-> You are being tasked to develop secure servers and clients to support the Northside Hospital Project.
-> The project name is: **Biomedical ACT Administration (BACTA)**
-> You will be building and configuring a server, a workstation client and the publishing and secure storage of patient health data.
-> Details can be found here. [[Cyber/_projects/BACTA/Project Overview]]
+> The project will be explained in due time...
+
 
 # Semester Plan
 
